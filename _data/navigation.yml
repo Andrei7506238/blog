@@ -1,3 +1,8 @@
--
-  title: "Home"
+- title: "Home"
   url: /
+
+- title: "Dev"
+  url: /categories/dev/
+
+- title: "Thoughts"
+  url: /categories/thoughts/
