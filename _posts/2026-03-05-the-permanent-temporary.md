@@ -38,7 +38,7 @@ cd ..
 ```
 everytime you run the app. Missing this "magical" sequence is the most common source of iOS dev errors working with C++ libs. Xcode will happily ignore your native breakpoints while you're left wondering why your new code isn't executing, only to realize you're running a cached, stale build.
 
-And don't get me started on the "cross-platform" promise. You're told you only need to know Dart, but the moment you need an advanced feature, you're deep-diving into Swift and Kotlin. I just wish, for once, they would agree on a similar API for the same feature.
+And don't get me started on the "cross-platform" promise. You're told you only need to know Dart, but the moment you need an advanced feature, you're deep-diving into Swift and Kotlin. I just wish, for once, they would agree on a similar API for the same feature. There is no better workaround filled workflow than having to work with multiplatform frameworks that break the abstraction every time you need to do something non-trivial.
 
 ### Setting Up This Blog: "It'll Be Easy," They Said
 
