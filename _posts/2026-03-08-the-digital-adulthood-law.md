@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The Digital Adulthood Law: A Noble Goal on a Collision Course with Reality"
-date: 2026-03-06 01:40:00 +0000
+date: 2026-03-08
 categories: [thoughts]
 author_profile: true
 read_time: true

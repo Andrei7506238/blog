@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The Shiroyama Lesson: The Artist’s Final Stand Against AI"
-date: 2026-03-06 01:40:00 +0000
+date: 2026-03-06
 categories: [dev, thoughts]
 author_profile: true
 read_time: true
