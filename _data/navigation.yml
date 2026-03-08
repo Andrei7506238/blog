@@ -1,8 +1,7 @@
-- title: "Home"
-  url: /
-
-- title: "Dev"
-  url: /categories/dev/
-
-- title: "Thoughts"
-  url: /categories/thoughts/
+main:
+  - title: "Home"
+    url: /
+  - title: "Categories"
+    url: /categories
+  - title: "Portfolio"
+    url: https://andrei7506238.github.io/soft-dev-portofolio/

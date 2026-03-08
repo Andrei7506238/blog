@@ -1,10 +1,13 @@
 ---
 layout: single
 title: "The Shiroyama Lesson: The Artist’s Final Stand Against AI"
-date: 2026-03-05 01:40:00 +0000
+date: 2026-03-06 01:40:00 +0000
 categories: [dev, thoughts]
 author_profile: true
 read_time: true
+header:
+  teaser: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/150072ec-59a6-45e0-ad46-01ca331acb8b/dgv3he3-4a1c19bc-4ca7-4bf4-ac2a-ec9dee5e4a6d.jpg/v1/fill/w_1194,h_669,q_70,strp/the_last_samurai_by_paper10ve_dgv3he3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA3NyIsInBhdGgiOiIvZi8xNTAwNzJlYy01OWE2LTQ1ZTAtYWQ0Ni0wMWNhMzMxYWNiOGIvZGd2M2hlMy00YTFjMTliYy00Y2E3LTRiZjQtYWMyYS1lYzlkZWU1ZTRhNmQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-Yeck2sQogsqVX_oKX-sntAn5E28NeE-BkqbEBLQ8V0
+image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/150072ec-59a6-45e0-ad46-01ca331acb8b/dgv3he3-4a1c19bc-4ca7-4bf4-ac2a-ec9dee5e4a6d.jpg/v1/fill/w_1194,h_669,q_70,strp/the_last_samurai_by_paper10ve_dgv3he3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA3NyIsInBhdGgiOiIvZi8xNTAwNzJlYy01OWE2LTQ1ZTAtYWQ0Ni0wMWNhMzMxYWNiOGIvZGd2M2hlMy00YTFjMTliYy00Y2E3LTRiZjQtYWMyYS1lYzlkZWU1ZTRhNmQuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-Yeck2sQogsqVX_oKX-sntAn5E28NeE-BkqbEBLQ8V0
 ---
 
 In the autumn of 1877, atop a hill in Kagoshima, five hundred samurai faced the end of an era. Opposing them was the newly forged Imperial Japanese Army of 30,000 soldiers equipped with modern rifles and heavy artillery. This was more than a lopsided skirmish, it was the definitive collision between traditional values and the relentless, mechanized momentum of progress.

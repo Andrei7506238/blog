@@ -1,10 +1,13 @@
 ---
 layout: single
 title: "The Permanent Temporary: Navigating the Maze of Software Workarounds"
-date: 2026-03-05 01:40:00 +0000
+date: 2026-03-05
 categories: [dev]
 author_profile: true
 read_time: true
+header:
+  teaser: https://images.pexels.com/photos/18373855/pexels-photo-18373855.jpeg
+image: https://images.pexels.com/photos/18373855/pexels-photo-18373855.jpeg
 ---
 
 During my day job, I often work with technologies that feel like a patchwork of solutions, each with its own quirks and "load-bearing" workarounds. Navigating this ecosystem is like a maze where every turn leads to a new challenge: updates bring breaking changes, everything works fine until it doesn't, and when it fails, it fails in the most spectacular ways possible.

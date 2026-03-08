@@ -24,7 +24,6 @@ author:
       url: "https://www.linkedin.com/in/andrei-robert-popa/"
 
 # Simplified Defaults
-defaults:
   - scope:
       path: ""
       type: posts

@@ -2,6 +2,7 @@
 layout: archive
 title: "Category: Dev"
 permalink: /categories/dev/
+entries_layout: grid
 ---
 
 <ul>

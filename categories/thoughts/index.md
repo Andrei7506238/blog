@@ -2,6 +2,7 @@
 layout: archive
 title: "Category: Thoughts"
 permalink: /categories/thoughts/
+entries_layout: grid
 ---
 
 <ul>
