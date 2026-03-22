@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Permanent Temporary: Navigating the Maze of Software Workarounds"
+title: "The Permanent Temporary and Navigating the Maze of Software Workarounds"
 date: 2026-03-05
 categories: [dev]
 author_profile: true
@@ -55,13 +55,17 @@ It recommended Jekyll with the Minimal Mistakes theme. It’s a solid combo, but
 
 When I see all the deprecation warnings, I can only think about a video from [No Boilerplate](https://www.youtube.com/c/NoBoilerplate) comparing Rust with a bridge that has been there for 70 years and will be here for the next 70 years to come. I wish the software world had more of these long-lasting solutions, but it seems like we are always chasing the next big thing, and in the process, we end up with a lot of workarounds and temporary solutions that eventually become permanent fixtures in our codebases until they are finally no longer mentained and fall apart.
 
-### MKVTool - The backbone of all media tools
+### MKVToolNix: The backbone of all media tools
 
 On the flip side, we have tools like MKVToolNix. It just works. It’s a battle-tested command-line staple that has stood the test of time. But even the greats have quirks—mostly due to licensing.
 
 Because it’s licensed under GPLv2, statically linking it would force your entire commercial app to be GPL as well. The "easy" fix is dynamic linking, but iOS famously forbids dynamic linking of third-party libraries. The result? Developers have to build wrappers around the command-line tool to call it externally. It screams "workaround," but it's the only way to play by the rules.
 
 This shows that even the most reliable and long-lasting tools can have their own quirks and workarounds, and it is up to us as developers to navigate these challenges and find the best solutions for our projects.
+
+### C++ standards: Implemented differently on each platform
+
+C++ is a powerful language, it is battle tested and has been around for decades, but it is also a source of many headaches. For me, it is incomprehesive that a language can have a standard for types, and that type can be implemented differently on different platforms. Take for example the humble `int`. It is usually 4 bytes, unless it's 2 bytes on some older platforms or 8 bytes on some newer ones. What the heck? And don't even get started on the `long` type which is a complete mess. If you need to create workarounds for this, such as using fixed-width types like `int32_t` or `int64_t` it means that the standard is not really a standard to begin with. And god forbid you need to compile your code on multiple platforms, you have to export the functions with different calling conventions. What is the difference between `__declspec(dllimport)` and `__attribute__((visibility("default")))` you might ask? Well, it depends on the platform you are compiling for. Why is this distinction necessary? I have no idea and I am too afraid to ask. It just adds another layer of complexity and another round of `IFDEF` macros that look more and more like a workaround for a problem that should not even exist in the first place.
 
 ### Final Thoughts
 

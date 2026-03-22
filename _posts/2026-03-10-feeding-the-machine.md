@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Feeding the Machine: Contributing with Data for AI"
-date: 2026-03-08
-categories: [dev, thoughts]
+title: "Feeding the Machine and Contributing with Data for AI"
+date: 2026-03-08s
+categories: [thoughts]
 author_profile: true
 read_time: true
 header:
@@ -35,12 +35,12 @@ I’m motivated by the idea of making a difference. If I’m just writing into a
 
 They say you die twice. Once when your heart stops, and a second time when someone says your name for the last time. I think by contributing to the world, we keep our ideas alive long after we’re gone.
 
-Even if my work is just a tiny part of an AI’s training data, it’s still out there, being useful. As long as the information is valued and helps people solve problems, it continues to live on and make a difference. That’s a legacy I’m happy to leave behind. If my logic helps a model reason better, or my data prevents a future error, I haven't been erased, rather I’ve been integrated. I am the ghost in the machine, and that is a legacy more durable than a citation in a dusty, unread journal.
+Even if my work is just a tiny part of an AI’s training data, it’s still out there, being useful. As long as the information is valued and helps people solve problems, it continues to live on and make a difference. That’s a legacy I’m happy to leave behind. If my logic helps a model reason better, or my data prevents a future error, I haven't been erased, even if my name isn't mentioned. But to be honest, if you aren't a famous author, philosopher, or scientist, you probably won't be mentioned in the future either way even if your ideas are alive and inspiring people for centuries. This is a legacy more durable than a citation in a dusty, unread journal.
 
 ## Fixing AI Mistakes
 
-On a practical level, I hope my work helps fix the mistakes AI models often make. We’ve all seen AI get things wrong. By putting accurate, high-quality information out there, we’re essentially helping "debug" the future of intelligence. I’m not worried about my work being used. I’m just glad it can help make these tools more accurate for everyone, even if not directly credited. My work might be a drop in the ocean, but enough drops of clean water can keep the digital ecosystem from becoming toxic.
+On a practical level, I hope my work helps fix the mistakes AI models often make. We’ve all seen AI get things wrong. By putting accurate, high-quality information out there, we’re essentially helping "debug" the future of intelligence. I’m not worried about my work being used. I’m just glad it can help make these tools more accurate for everyone, even if not directly credited. My work might be a drop in the ocean, but enough drops of clean water can keep the digital ecosystem from [becoming toxic](https://www.nature.com/articles/s41586-024-07566-y).
 
 ## The Guerilla Open Access Manifesto
 
-I’ve always resonated with Aaron Swartz. I believe information should be free and accessible to everyone, not locked away. By contributing openly, I’m doing my small part to create a more transparent world. I’m grateful that my work is part of this transition, and I hope it stays useful for years to come. By contributing openly, I am committing a small act of guerilla transparency. In an era where the most powerful models are built behind closed doors, keeping our knowledge in the public domain is a radical choice. If the machine is going to learn, let it learn from the dreamers and the makers. I am proud to let my work be part of this transition, ensuring that even in an automated future, the fingerprints of human curiosity remain everywhere.
+I’ve always resonated with [Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ&rco=1). I believe information should be [free](https://en.wikipedia.org/wiki/Open_access) and accessible to everyone, not locked away. By contributing openly, I’m doing my small part to create a more transparent world. I’m grateful that my work is part of this transition, and I hope it stays useful for years to come. By contributing openly, I am committing a small act of guerilla transparency. In an era where the most powerful models are built behind closed doors, keeping our knowledge in the public domain is a radical choice. If the machine is going to learn, let it learn from the dreamers and the makers. I am proud to let my work be part of this transition, ensuring that even in an automated future, the fingerprints of human curiosity remain everywhere.

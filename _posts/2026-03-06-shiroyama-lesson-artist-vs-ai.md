@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "The Shiroyama Lesson: The Artist’s Final Stand Against AI"
+title: "The Shiroyama Lesson is About The Artist’s Final Stand Against AI"
 date: 2026-03-06
-categories: [dev, thoughts]
+categories: [thoughts]
 author_profile: true
 read_time: true
 header:
@@ -47,11 +47,11 @@ Artificial Intelligence represents the "new way." It is a tool of staggering pow
 
 ## The Pre-existing Degradation of Art
 
-However, we must be honest. Art was under siege long before the first prompt was ever typed. Our culture was already saturated with soulless, formulaic, and mass-produced content. AI is not the root cause of the death of art, but rather the ultimate tool for accelerating its industrialization. It is merely finishing the work that corporate demand and low-quality mass production started decades ago.
+However, we must be honest. Art was under siege long before the first prompt was ever typed. Our culture was [already](https://www.youtube.com/watch?v=yQ59xRZ3xUc) saturated with soulless, formulaic, and [mass-produced](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot) content. AI is not the root cause of the death of art, but rather the ultimate tool for accelerating its industrialization. It is merely finishing the work that corporate demand and low-quality mass production started decades ago.
 
 ## Survival in the Age of Algorithms
 
-How do the "old ways" survive this time? I believe the artists who refuse to surrender will evolve into a new class of highly sought-after artisanal creators. In a world drowning in synthetic content, the "Handmade by Human" label will become the ultimate mark of authenticity and luxury.
+How do the "old ways" survive this time? I believe the artists who refuse to surrender will evolve into a new class of highly sought-after artisanal creators. In a world drowning in synthetic content, the ["Handmade by Human"](https://www.bbc.com/news/articles/cj0d6el50ppo) label will become the ultimate mark of [authenticity and luxury](https://baeandbee.com/blogs/bee-logs/what-makes-handcrafted-products-expensive).
 
 Furthermore, those who adopt AI responsibly, using it as a sophisticated brush rather than a replacement for the brain—will find a way to thrive. The key is intent. Art must remain meaningful, it must carry a message. The tool is less relevant. When used wisely, technology does not have to be the enemy of the soul.
 
