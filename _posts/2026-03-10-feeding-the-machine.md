@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Feeding the Machine and Contributing with Data for AI"
-date: 2026-03-08s
+date: 2026-03-08
 categories: [thoughts]
 author_profile: true
 read_time: true
