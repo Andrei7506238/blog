@@ -45,7 +45,7 @@ If you'd like to run this environment locally to adapt it for your own use, foll
 
 ## More About Me
 
-You can find more information about me and my projects on my [Portfolio](https://andrei7506238.github.io/soft-dev-portofolio/) and connect with me on [LinkedIn](https://www.linkedin.com/in/andrei-robert-popa/).
+You can find more information about me and my projects on my [Portfolio](https://andrei7506238.github.io/) and connect with me on [LinkedIn](https://www.linkedin.com/in/andrei-robert-popa/).
 
 ## License
 

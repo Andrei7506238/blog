@@ -9,14 +9,14 @@ minimal_mistakes_skin: "dark"
 # Author Sidebar
 author:
   name   : "Andrei"
-  avatar : "https://andrei7506238.github.io/soft-dev-portofolio/images/showcase/profile.jpeg" 
+  avatar : "https://andrei7506238.github.io/images/showcase/profile.jpeg" 
   bio    : "Mobile Software Developer."
   location: "Brașov, Romania"
   copyright: "Licensed under CC BY-SA 4.0 | &copy; 2026 Popa Andrei Robert"
   links:
     - label: "Back to Portfolio"
       icon: "fas fa-fw fa-arrow-left"
-      url: "https://andrei7506238.github.io/soft-dev-portofolio/"
+      url: "https://andrei7506238.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andrei7506238"
